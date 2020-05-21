@@ -75,3 +75,10 @@ header ul a{
 }
 
 /*registro.html*/
+.registro-header{
+  height: 400px;
+}
+
+.registro-titulo{
+  margin-top: 80px;
+}
